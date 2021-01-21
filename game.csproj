@@ -1,0 +1,17 @@
+<Project Sdk="Godot.NET.Sdk/3.2.3">
+  <PropertyGroup>
+    <TargetFramework>net472</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="GameFs/GameFs.fsproj">
+      <Name>GameFs</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="GodotSharp">
+      <HintPath>$(ProjectDir)/.mono/assemblies/Release/GodotSharp.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+
+</Project>
