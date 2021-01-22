@@ -46,7 +46,7 @@ __meta__ = {
 position = Vector2( 0.280609, -4.48985 )
 frames = SubResource( 1 )
 animation = "idle"
-frame = 2
+frame = 1
 playing = true
 
 [node name="HPRubah" type="CollisionShape2D" parent="."]

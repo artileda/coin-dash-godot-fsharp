@@ -2,4 +2,5 @@ GameFs/bin
 GameFs/obj
 .mono
 .import
+.vs
 addons

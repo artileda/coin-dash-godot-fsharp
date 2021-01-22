@@ -12,6 +12,7 @@
 
   <ItemGroup>
     <Compile Include="PlayerFs.fs" />
+    <Compile Include="Main.fs" />
   </ItemGroup>
 
 </Project>

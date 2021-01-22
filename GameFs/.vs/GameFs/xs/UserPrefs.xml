@@ -1,14 +1,15 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workbench ActiveDocument="PlayerFs.fs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Main.fs">
     <Files>
-      <File FileName="PlayerFs.fs" Line="33" Column="52" />
+      <File FileName="PlayerFs.fs" Line="13" Column="23" />
+      <File FileName="Main.fs" Line="4" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="GameFs" expanded="True">
             <Node name="GameFs" expanded="True">
-              <Node name="PlayerFs.fs" selected="True" />
+              <Node name="Main.fs" selected="True" />
             </Node>
           </Node>
         </State>

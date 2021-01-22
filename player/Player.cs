@@ -8,7 +8,7 @@ public class Player : PlayerFs.Class
 	
 	[Signal]
 	public delegate void Hurt();
-	
+	/*
 	private void OnPlayerAreaEntered(Node area)
 	{
 		if(area.IsInGroup("coins")){
@@ -16,5 +16,5 @@ public class Player : PlayerFs.Class
 		}else{
 			EmitSignal("hurt");
 		}
-	}
+	}*/
 }
